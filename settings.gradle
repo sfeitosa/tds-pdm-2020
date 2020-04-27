@@ -1,0 +1,2 @@
+rootProject.name='Dicionario'
+include ':app'
